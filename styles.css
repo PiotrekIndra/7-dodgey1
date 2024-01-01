@@ -314,7 +314,7 @@ header h1 {
 
     .survey,
     .formatted-text {
-        max-width: 100%;
+        max-width: calc(50% - 20px);
         background-color: #9932cc;
         padding: 20px;
         border-radius: 8px;
